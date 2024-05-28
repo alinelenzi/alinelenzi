@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Aline Lenzi!</h1>
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Estudante de Sistema de informação.
 
 - 📫 Como me encontrar: **alinelenzi@gmail.com**
 <br>
